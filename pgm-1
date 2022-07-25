@@ -1,0 +1,103 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="70dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="146dp"
+        android:layout_marginLeft="146dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="168dp"
+        android:text="RNSIT"
+        android:textColor="#0427DA"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="74dp"
+        android:layout_height="54dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="327dp"
+        android:layout_marginLeft="327dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginRight="10dp"
+        app:srcCompat="@drawable/rnsit" />
+
+</RelativeLayout>
+<View
+    android:layout_width="match_parent"
+    android:layout_height="3dp" android:background="#000000" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="130dp"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="40dp"
+    android:text="DRAVYA M"
+    android:textColor="#050404"
+    android:textSize="24sp"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="140dp"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="40dp"
+    android:text="Student"
+    android:textColor="#050404"
+    android:textSize="24sp"
+    android:textStyle="bold" />
+
+<View
+    android:layout_width="match_parent"
+    android:layout_height="2dp" android:background="#000000" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="110dp"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="30dp"
+    android:text="+91-9876543210"
+    android:textColor="#050404"
+    android:textSize="24sp"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="140dp"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="40dp"
+    android:text="Bangalore"
+    android:textColor="#050404"
+    android:textSize="24sp"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="100dp"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="40dp"
+    android:text="Email: rnsit.ac.in"
+    android:textColor="#050404"
+    android:textSize="24sp"
+    android:textStyle="bold" />
